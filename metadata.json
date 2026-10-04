@@ -1,0 +1,10 @@
+{
+  "name": "Remix K-Pop Step Academy",
+  "description": "Learn beginner-friendly K-pop choreography with a high-quality 3D animated dancer in a clean, vertical tutorial format.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
